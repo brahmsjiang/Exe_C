@@ -12,6 +12,7 @@ int retsum1(int a, ...);
 void printvar0(const char* args, ...);
 void printvar1(const char* args, ...);
 
+
 int main(void)
 {
 	//err_sys("===>%s\n","a");
